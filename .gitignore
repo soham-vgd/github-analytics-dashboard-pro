@@ -40,3 +40,5 @@ ts-debug.log*
 # OS
 Thumbs.db
 deploy_git.js
+
+.bun.lockb
